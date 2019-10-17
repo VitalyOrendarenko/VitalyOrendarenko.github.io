@@ -65,19 +65,13 @@ body {
     right: 16px;
     bottom: -16px;
     left: 16px;
-    width: 320px;
+    width: 91%;
     height: 100%;
     background: #00645B;
     opacity: 0.3;
     filter: blur(10px);
     border-radius: 8px;
     z-index: -1; }
-    @media (max-width: 767.9px) {
-      .sl-slide:before {
-        width: 296px; } }
-    @media (max-width: 319.9px) {
-      .sl-slide:before {
-        width: 212px; } }
   .sl-slide__link .sl-slide__img {
     height: 100%;
     border-radius: 8px;
